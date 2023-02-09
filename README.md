@@ -1,14 +1,11 @@
-### Hi there 👋
+<div id="header" align="center"> 
+ <img src="https://media2.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b95294c2806b4e2dc454c5eb33fcc1e2d3df42fbae04&rid=giphy.gif&ct=s" width="100"/> 
+</div>
 
-<!--
-**mokuba420/Mokuba420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges"> 
+<a href="https://www.linkedin.com/in/rizqah-meniers-5bb69a144">
+<img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
+</a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently Seek working ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate o0n ...
-- 💬 Ask me aboutHi my name is Malachi For the past 5 years my role in the      Software development industry and 3 year's game development industry ...
-- 📫 How to reach me: murasaki.jabari@gmail.com ...
-- ⚡ Fun fact: ...
--->
+<img src="https://komarev.com/ghpvc/?username=ririzqah&style=flat-square&col
