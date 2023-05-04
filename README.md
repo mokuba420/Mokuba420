@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Malachi Mathins</h1>
 <h3 align="center">A Passionate Video Game & Software Developer from South Africa</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3253310-Coder">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokuba420&label=Profile%20views&color=0e75b6&style=flat" alt="mokuba420" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mokuba420" alt="mokuba420" /></a> </p>
